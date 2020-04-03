@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 ,凤凰资讯台
+http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+EXTINF:-1 ,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 ,CBS
+http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1 ,CBS-LA
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1 ,Bloomberg
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 ,NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 ,Olympic
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,NHK
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 ,CCTV-13 新闻
+http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+#EXTINF:-1 ,CCTV-1 综合
+http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
+#EXTINF:-1 ,CCTV-2 经济
+http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
+#EXTINF:-1 ,CCTV-3 综艺
+http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
+#EXTINF:-1 ,CCTV-4 国际
+http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
+#EXTINF:-1 ,CCTV-5 体育
+http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
+#EXTINF:-1 ,CCTV-5+ 体育
+http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
+#EXTINF:-1 ,CCTV-9 纪录
+http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
+#EXTINF:-1 ,北京卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+#EXTINF:-1 ,浙江卫视
+http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
+#EXTINF:-1 ,湖南卫视
+http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
+#EXTINF:-1 ,东方卫视
+http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
+#EXTINF:-1 ,深圳卫视
+http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
+#EXTINF:-1 ,江苏卫视
+http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000281301.m3u8
+#EXTINF:-1 ,广东卫视
+http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
+#EXTINF:-1 ,CCTV-4K 超高清
+http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
