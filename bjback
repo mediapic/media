@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,凤凰资讯台
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-EXTINF:-1 ,CNA
+#EXTINF:-1 ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 ,CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
