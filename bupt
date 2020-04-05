@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv1hd
+#EXTINF:-1 ,CCTV-2HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv2hd
+#EXTINF:-1 ,CCTV-3HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv3hd
+#EXTINF:-1 ,CCTV-4HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv4hd
+#EXTINF:-1 ,CCTV-5HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
+#EXTINF:-1 ,CCTV5+HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
+#EXTINF:-1 ,CCTV-6HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv6hd
+#EXTINF:-1 ,CCTV-9HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv9hd
+#EXTINF:-1 ,CCTV-13新闻
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
+#EXTINF:-1 ,北京卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv1hd
+#EXTINF:-1 ,北京影视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv4hd
+#EXTINF:-1 ,北京体育高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv6hd
+#EXTINF:-1 ,北京新闻高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv9hd
+#EXTINF:-1 ,北京冬奥高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv11hd
+#EXTINF:-1 ,北京文艺高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv2hd
+#EXTINF:-1 ,重庆卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/cqhd
+#EXTINF:-1 ,东方卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/dfhd
+#EXTINF:-1 ,天津卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/tjhd
+#EXTINF:-1 ,河北卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/hebhd
+#EXTINF:-1 ,湖南卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/hunanhd
+#EXTINF:-1 ,湖北卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/hbhd
+#EXTINF:-1 ,辽宁卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/lnhd
+#EXTINF:-1 ,江苏卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/jshd
+#EXTINF:-1 ,浙江卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/zjhd
+#EXTINF:-1 ,江苏卫视高清
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 ,山东卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/sdhd
+#EXTINF:-1 ,广东卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/gdhd
+#EXTINF:-1 ,深圳卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/szhd
+#EXTINF:-1 ,上海纪实高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/docuchina
+#EXTINF:-1 ,金鹰纪实高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/gedocu
+#EXTINF:-1 ,全纪实高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/documentaryhd
