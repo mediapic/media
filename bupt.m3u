@@ -21,6 +21,8 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 #EXTINF:-1 ,CCTV-13新闻
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226339/1.m3u8
+#EXTINF:-1 ,CCTV-13 HD
+http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
 #EXTINF:-1 ,北京卫视高清
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 #EXTINF:-1 ,东方卫视高清
