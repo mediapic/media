@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 ,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 ,CCTV-4HD
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
+#EXTINF:-1 ,CCTV-5HD
+http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV5+HD
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+#EXTINF:-1 ,CCTV-9HD
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
+#EXTINF:-1 ,CCTV-13 HD
+http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
